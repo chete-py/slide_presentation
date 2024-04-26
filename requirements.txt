@@ -1,4 +1,4 @@
 streamlit
-reveal_slides
+streamlit-reveal-slides
 pandas
 gspread
