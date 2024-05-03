@@ -82,9 +82,8 @@ currState = rs.slides(sample_markdown,
                     key="foo")
 
 if currState["indexh"] == 2:
-    elif currState["indexf"] == 0:
-        st.markdown("_(see later slides for details and examples)_")
-    elif currState["indexf"] == 1:
+ 
+    if currState["indexf"] == 1:
         st.markdown("(see later slides for details and examples)")
     elif currState["indexf"] == 2:
         st.markdown("")
