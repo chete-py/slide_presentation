@@ -41,7 +41,7 @@ sample_markdown = r"""
 - Regulator - IRA <!-- .element: class="fragment" data-fragment-index="4" -->
 ---
 
-### Roles of Intermediaries In The Insurance Ecosystem
+#### Roles of Intermediaries In The Insurance Ecosystem
 - What are Intermediaries and types of intermediaries? <!-- .element: class="fragment" data-fragment-index="0" -->
 - Examples of Intermediaries in the Insurance Landscape in Kenya? <!-- .element: class="fragment" data-fragment-index="1" -->
     . GRAS SAVOYE - WTW <!-- .element: class="fragment" data-fragment-index="0" -->
@@ -52,6 +52,7 @@ sample_markdown = r"""
 - Key attributes to excel in this space? <!-- .element: class="fragment" data-fragment-index="3" -->
 - How descent is the salary? <!-- .element: class="fragment" data-fragment-index="4" -->
 
+---
 
 #### Tips on How to Breakthrough
 - Luck  😂 😂 <!-- .element: class="fragment" data-fragment-index="0" -->
@@ -66,7 +67,8 @@ sample_markdown = r"""
 #### Thank You For Your Time
 
 """
-st.markdown("#### UoN I07 Career Talk - Chete")
+st.markdown("#### UoN I07 Career Talk - Collins Chetekei")
+st.markdown("###### Role of Intermediaries In Insurance")
 with st.sidebar:
     st.header("Component Parameters")
     theme = st.selectbox("Theme", ["serif", "simple", "solarized"])
