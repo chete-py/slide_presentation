@@ -81,11 +81,7 @@ currState = rs.slides(sample_markdown,
                     markdown_props={"data-separator-vertical":"^--$"}, 
                     key="foo")
 
-if currState["indexf"] == 0:
-    st.markdown("follow me on Github @ chete-py")
-elif currState["indexh"] == 6:
-    st.markdown("follow me on Github @ chete-py")
-elif currState["indexh"] == 2:
+if currState["indexh"] == 2:
     if currState["indexf"] == 0:
         st.markdown("_(see later slides for details and examples)_")
     elif currState["indexf"] == 1:
