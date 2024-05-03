@@ -44,11 +44,7 @@ sample_markdown = r"""
 #### Roles of Intermediaries In The Insurance Ecosystem
 - What are Intermediaries and types of intermediaries? <!-- .element: class="fragment" data-fragment-index="0" -->
 - Examples of Intermediaries in the Insurance Landscape in Kenya? <!-- .element: class="fragment" data-fragment-index="1" -->
-    . GRAS SAVOYE - WTW <!-- .element: class="fragment" data-fragment-index="0" -->
-    . AON MINET <!-- .element: class="fragment" data-fragment-index="1" -->
-    . ACENTRIA <!-- .element: class="fragment" data-fragment-index="2" -->
-    . ZAMARA <!-- .element: class="fragment" data-fragment-index="3" -->
-- How do we earn our money? <!-- .element: class="fragment" data-fragment-index="2" -->
+- GRAS SAVOYE - WTW ,  AON MINET, ACENTRIA, ZAMARA <!-- .element: class="fragment" data-fragment-index="2" -->    
 - Key attributes to excel in this space? <!-- .element: class="fragment" data-fragment-index="3" -->
 - How descent is the salary? <!-- .element: class="fragment" data-fragment-index="4" -->
 
