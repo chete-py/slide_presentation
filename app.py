@@ -10,7 +10,7 @@ from google.oauth2 import service_account
 
 
 
-tab1, tab2, tab3 = st.tabs(["📈 Presentation"])
+tab1 = st.tabs(["📈 NASA Presentation"])
 
 with tab1:
 
